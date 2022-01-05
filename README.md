@@ -30,6 +30,3 @@ pip install -r requirements.txt
 Run the main.py
 ```
 ---
-#### _Developers_:
-
-[Ning Chu](https://github.com/NingChu1998)
