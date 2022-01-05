@@ -1,1 +1,1 @@
-pip install pyperclip==1.3
+pyperclip==1.3
