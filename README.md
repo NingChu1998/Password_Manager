@@ -3,7 +3,7 @@
 ##### Password Manager is a simple Python project to help peopl storage their password in a super easier way
 ---
 ## 1. Features
-- User passwords are **encrypted**
+- To storage whole your passowords (*Plase add your passwords in the dictionary above)
 - Password directly be copied to our clipboard
 
 ## 2. Tech
